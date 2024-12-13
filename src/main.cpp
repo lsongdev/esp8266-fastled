@@ -2,6 +2,7 @@
 #include <FastLED.h>
 
 #define LED_PIN 33
+#define LED_PIN 2
 #define BTN_PIN 22
 #define NUM_LEDS 30
 #define MODES 3
